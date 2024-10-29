@@ -11,7 +11,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "seed": "node dist/seeds/index.js"
     },
-    "author": "kagen Smith",
+    "author": "Kagen Smith",
     "license": "MIT",
     "dependencies": {
       "express": "^4.21.0",
